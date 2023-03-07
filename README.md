@@ -2,7 +2,8 @@
 
 ## About Me 
 
-My name is Aleksandra Konicz-Błąkała and I welcome you to my 'Portfolio' page. (...)
+My name is Aleksandra Konicz-Błąkała and I welcome you to my 'Portfolio' page. I have been working ...
+My motto is "it won't do itself".
 
 ## Courses 
 * uTest Academy
