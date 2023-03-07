@@ -5,6 +5,7 @@
 My name is Aleksandra Konicz-Błąkała and I welcome you to my 'Portfolio' page. (...)
 
 ## Courses 
+* uTest Academy
 * Praktyczny kurs testowania oprogramowania || **Udemy
 * Responsive Web Design || **freeCodeCamp
 * Web development - HTML, CSS, JS, Node, and More  || **Udemy (IN PROGRESS)
