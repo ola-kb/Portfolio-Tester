@@ -5,12 +5,14 @@
 My name is Aleksandra Konicz-Błąkała and I welcome you to my 'Portfolio' page. I have been working ...
 My motto is "it won't do itself".
 
-## Courses 
+## Courses and Programs
 * uTest Academy
 * Praktyczny kurs testowania oprogramowania || **Udemy
 * Responsive Web Design || **freeCodeCamp
 * Web development - HTML, CSS, JS, Node, and More  || **Udemy (IN PROGRESS)
 * Data & SQL MOOC Sprint || **Code First Girls
+* **#Welcome** || Fundacja Mamo Pracuj and Fundacja Kronenberga
+* **Let's do IT AKAdemy 2!** - Fundacja Mamo and Akamai
 
 ## Technologies and Tools: 
 * Git, GitHub
@@ -26,16 +28,16 @@ My motto is "it won't do itself".
 * **Poznaj SQL w 10 min. Krótkie lekcje** - Ben Forta
 
 ## Blogs I read 
-* https://testerzy.pl/
-* https://testuj.pl
-* https://www.wyszkolewas.com.pl
-* http://cherry-it.pl/
+* [testerzy.pl](https://testerzy.pl/)
+* [testuj.pl](https://testuj.pl)
+* [www.wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
+* [cherry-it.pl](http://cherry-it.pl/)
 
 ## My projects 
 BUGS:
 
 HTML/CSS
- https://ola-kb.github.io/baby-shop-grid/
+https://ola-kb.github.io/baby-shop-grid/
 
 JavaScript/ API:
 https://ola-kb.github.io/search-pokemon/
