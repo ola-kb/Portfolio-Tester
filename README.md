@@ -35,6 +35,7 @@ My motto is "it won't do itself".
 
 ## My projects 
 BUGS:
+[Rossmann](https://docs.google.com/spreadsheets/d/1DfQY3UjULTT21nEj6HJPXbSsdWgRr4Dv1blUEO7rvlA/edit?usp=sharing)
 
 HTML/CSS
 https://ola-kb.github.io/baby-shop-grid/
