@@ -38,7 +38,7 @@ My motto is "it won't do itself".
 
 ## My projects 
 BUGS:
-[Rossmann](https://drive.google.com/file/d/1uoP2XfSgsFK_J2mstDz_3bLuW7--6Fix/view?usp=share_link)
+[Rossmann](https://docs.google.com/spreadsheets/d/1DfQY3UjULTT21nEj6HJPXbSsdWgRr4Dv1blUEO7rvlA/edit#gid=0)
 
 HTML/CSS
 [Baby-shop](https://ola-kb.github.io/baby-shop-grid/)
