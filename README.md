@@ -38,21 +38,21 @@ My motto is "it won't do itself".
 
 ## My projects 
 BUGS:
-[Rossmann](https://docs.google.com/spreadsheets/d/1DfQY3UjULTT21nEj6HJPXbSsdWgRr4Dv1blUEO7rvlA/edit?usp=sharing)
+[Rossmann](https://drive.google.com/file/d/1uoP2XfSgsFK_J2mstDz_3bLuW7--6Fix/view?usp=share_link)
 
 HTML/CSS
-https://ola-kb.github.io/baby-shop-grid/
+[Baby-shop](https://ola-kb.github.io/baby-shop-grid/)
 
 JavaScript/ API:
-https://ola-kb.github.io/search-pokemon/
+[Search pokemon](https://ola-kb.github.io/search-pokemon/)
 
 JavaScript:
-https://ola-kb.github.io/pokedex/
+[Pokedex](https://ola-kb.github.io/pokedex/)
 
 SQL:
-https://github.com/ola-kb/house_of_instruments
+[Rent an instrument](https://github.com/ola-kb/house_of_instruments)
 
 _for more projects, please visit my page:_
-https://github.com/ola-kb
+[gitHub](https://github.com/ola-kb)
 
 
