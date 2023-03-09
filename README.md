@@ -7,10 +7,10 @@ My motto is "it won't do itself".
 
 ## Courses and Programs
 * uTest Academy
-* Praktyczny kurs testowania oprogramowania || **Udemy
-* Responsive Web Design || **freeCodeCamp
-* Web development - HTML, CSS, JS, Node, and More  || **Udemy (IN PROGRESS)
-* Data & SQL MOOC Sprint || **Code First Girls
+* Praktyczny kurs testowania oprogramowania || **Udemy**
+* Responsive Web Design || **freeCodeCamp**
+* Web development - HTML, CSS, JS, Node, and More  || **Udemy (IN PROGRESS)**
+* Data & SQL MOOC Sprint || **Code First Girls**
 * **#Welcome** || Fundacja Mamo Pracuj and Fundacja Kronenberga
 * **Let's do IT AKAdemy 2!** - Fundacja Mamo and Akamai
 
