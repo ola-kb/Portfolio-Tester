@@ -2,7 +2,10 @@
 
 ## About Me 
 
-My name is Aleksandra Konicz-Błąkała and I welcome you to my 'Portfolio' page. I have been working ...
+My name is Aleksandra Konicz-Błąkała and I welcome you to my 'Portfolio' page. 
+I am interested in developing my skills as a manual tester.  
+My current job requires me to constantly develop, mainly in the field of creativity, which could be very useful in the IT industry.  
+Privately, I am a mother of three children, which makes me a fast and multi-tasking woman.  
 My motto is "it won't do itself".
 
 ## Courses and Programs
