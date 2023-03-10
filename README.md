@@ -47,6 +47,7 @@ JavaScript/ API:
 [Search pokemon](https://ola-kb.github.io/search-pokemon/)
 
 JavaScript:
+[House of Instruments-rent](https://ola-kb.github.io/rent_instruments_page/)
 [Pokedex](https://ola-kb.github.io/pokedex/)
 
 SQL:
