@@ -14,13 +14,14 @@ My motto is "the work won't do itself".
 * Responsive Web Design || **freeCodeCamp**
 * Web development - HTML, CSS, JS, Node, and More  || **Udemy (IN PROGRESS)**
 * Data & SQL MOOC Sprint || **Code First Girls**
+* Kurs Git dla początkujących || **Udemy**
 * **#Welcome** || Fundacja Mamo Pracuj and Fundacja Kronenberga
 * **Let's do IT AKAdemy 2!** - Fundacja Mamo and Akamai
 
 ## Technologies and Tools: 
 * Git, GitHub
 * HTML
-* CSS
+* CSS  / Flexbox / Bootstrap / Bulma
 * SQL, MySQL
 * JavaScript
 * API
