@@ -9,7 +9,7 @@ Privately, I am a mother of three children, which makes me a fast and multi-task
 My motto is "it won't do itself".
 
 ## Courses and Programs
-* uTest Academy
+* **uTest Academy**
 * Praktyczny kurs testowania oprogramowania || **Udemy**
 * Responsive Web Design || **freeCodeCamp**
 * Web development - HTML, CSS, JS, Node, and More  || **Udemy (IN PROGRESS)**
@@ -23,6 +23,8 @@ My motto is "it won't do itself".
 * CSS
 * SQL, MySQL
 * JavaScript
+* API
+* Postman
 * Jira
 * Testlink
 
