@@ -10,6 +10,7 @@ My motto is "the work won't do itself".
 
 ## Courses and Programs
 * **uTest Academy**
+* COLT 1/2023 Postman  || **Cherry-IT**
 * Praktyczny kurs testowania oprogramowania || **Udemy**
 * Responsive Web Design || **freeCodeCamp**
 * Web development - HTML, CSS, JS, Node, and More  || **Udemy (IN PROGRESS)**
@@ -27,6 +28,7 @@ My motto is "the work won't do itself".
 * API
 * Postman
 * Jira
+* Trello
 * Testlink
 
 ## Books
@@ -58,5 +60,7 @@ SQL:
 
 _for more projects, please visit my page:_
 [gitHub](https://github.com/ola-kb)
+_for contact, please visit my profile:_
+[LinkedIn](https://www.linkedin.com/in/a-konicz-blakala)
 
 
