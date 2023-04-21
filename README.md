@@ -27,8 +27,7 @@ My motto is "the work won't do itself".
 * JavaScript
 * API
 * Postman
-* Jira
-* Trello
+* Jira, Trello
 * Testlink
 
 ## Books
@@ -42,6 +41,12 @@ My motto is "the work won't do itself".
 * [cherry-it.pl](http://cherry-it.pl/)
 
 ## My projects 
+POSTMAN - Collection:
+[Trello-API](https://github.com/ola-kb/Postman-Trello-API)
+
+Test cases:
+[Trello](https://github.com/ola-kb/Postman-Trello-API/blob/main/Przypadki%20testowe%20-Trello%20-%20Arkusze%20Google.pdf)
+
 BUGS:
 [Rossmann](https://docs.google.com/spreadsheets/d/1DfQY3UjULTT21nEj6HJPXbSsdWgRr4Dv1blUEO7rvlA/edit#gid=0)
 
