@@ -41,6 +41,9 @@ My motto is "the work won't do itself".
 * [cherry-it.pl](http://cherry-it.pl/)
 
 ## My projects 
+GIT:
+[Cheat sheet](https://drive.google.com/file/d/1XjyTnQ1kN1Kfc7snw4fQxGz8YGx9U6hk/view?usp=share_link)
+
 POSTMAN - Collection:
 [Trello-API](https://github.com/ola-kb/Postman-Trello-API)
 
