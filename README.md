@@ -51,7 +51,9 @@ Test cases:
 [Trello](https://github.com/ola-kb/Postman-Trello-API/blob/main/Przypadki%20testowe%20-Trello%20-%20Arkusze%20Google.pdf)
 
 BUGS:
-[Rossmann](https://docs.google.com/spreadsheets/d/1DfQY3UjULTT21nEj6HJPXbSsdWgRr4Dv1blUEO7rvlA/edit#gid=0)
+[InPost Mobile](https://docs.google.com/spreadsheets/d/e/2PACX-1vRZMGHGLCx8BVQYC8-6PAumRukkG7jvA1JIFu1q29uG20b2ksquo4tRJCQOHDWG2cHZuEtgJQxAKR7n/pubhtml)
+[Rossmann](https://docs.google.com/spreadsheets/d/e/2PACX-1vTtsc_blPTnSGNJLxvhvLedfWPOpGT7cWbwEocLF9W1gJBUs04imOIsCTDDaKjz5e2YntC0H4o-AwFt/pubhtml)
+
 
 HTML/CSS
 [Baby-shop](https://ola-kb.github.io/baby-shop-grid/)
